@@ -8,7 +8,7 @@
 
 ---
 
-* 🌱 I’m currently learning **Golang, linux Terraform and Kubernetes**
+* 🌱 I’m currently learning **Python, Ansible and Kubernetes**
 
 * 💬 Ask me about **DevOps, Cloud Native**
 
